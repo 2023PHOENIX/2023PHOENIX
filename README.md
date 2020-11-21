@@ -13,3 +13,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love discovering new things in programming world.
 
+
+<img src ="https://github-readme-stats.vercel.app/api?username=2023PHOENIX&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
