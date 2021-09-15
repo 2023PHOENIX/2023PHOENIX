@@ -1,7 +1,7 @@
 ### Hi Guys, I am Abhishek Shrivastava👋
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Genetic Alogrithm
 - 🌱 I’m currently learning deep learning
 - 👯 I’m looking to collaborate on deep learning
 - 🤔 I’m looking for help with Competitve Programming
