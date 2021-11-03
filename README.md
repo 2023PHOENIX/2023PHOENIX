@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on Genetic Alogrithm
-- 🌱 I’m currently learning deep learning
-- 👯 I’m looking to collaborate on deep learning
+- 🌱 I’m currently learning data structures
+- 👯 I’m looking to collaborate on genetic algorithm
 - 🤔 I’m looking for help with Competitve Programming
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
