@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek2023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek2023/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/abhishekshrivastav1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abhishekshrivastav1920" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/phoenix2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/phoenix2000/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/abhishekshrivas8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/abhishekshrivas8" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhishekshrivastav1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekshrivastav1920" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek2023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek2023/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/abhishekshrivastav1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abhishekshrivastav1920" height="30" width="40" /></a>
+<a href="https://leetcode.com/phoenix2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/phoenix2000/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/abhishekshrivas8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/abhishekshrivas8" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhishekshrivastav1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekshrivastav1920" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
